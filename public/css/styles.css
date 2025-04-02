@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: sans-serif;
+}
+
+#main-container {
+  width: 100%;
+  height: 100%;
+}
